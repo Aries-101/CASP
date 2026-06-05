@@ -5,7 +5,7 @@
     "Address": {
       "Line1": "1st Line of Address",
       "Line2": "2nd Line of Address",
-      "County": "Sussex",
+      "County": "Merseyside",
       "Postcode": "HO00 B00"
     },
     "Phone": "01234 567890",
@@ -16,7 +16,7 @@
     "Code": "were345434",
     "Name": "Here it is",
     "Type": "Very Easy",
-    "SubUnit": "C Coy",
+    "SubUnit": "1 Coy",
     "PrimaryLocation": "My Home",
     "StartDate": "2 July 26",
     "EndDate": "",
@@ -28,7 +28,7 @@
   },
   "RiskAssessments": {
     "CoreTrainingAtRFCAorDIO": {
-      "Title": "Sussex ACF Core training at RFCA/DIO locations",
+      "Title": "Merseyside ACF Core training at RFCA/DIO locations",
       "Date": "01 Jan 26"
     },
     "AF5010C": {
