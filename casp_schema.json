@@ -5,8 +5,8 @@
     "Address": {
       "Line1": "1st Line of Address",
       "Line2": "2nd Line of Address",
-      "County": "Sussex",
-      "Postcode": "HO00 B00"
+      "County": "Merseyside",
+      "Postcode": "L38"
     },
     "Phone": "01234 567890",
     "Email": "noname@armymail.mod.uk",
@@ -16,7 +16,7 @@
     "Code": "",
     "Name": "",
     "Type": "",
-    "SubUnit": "C Coy",
+    "SubUnit": "1 Coy",
     "PrimaryLocation": "",
     "StartDate": "",
     "EndDate": "",
@@ -28,7 +28,7 @@
   },
   "RiskAssessments": {
     "CoreTrainingAtRFCAorDIO": {
-      "Title": "Sussex ACF Core training at RFCA/DIO locations",
+      "Title": "Merseyside ACF Core training at RFCA/DIO locations",
       "Date": ""
     },
     "AF5010C": {
